@@ -1,0 +1,16 @@
+﻿l_english:
+    #DECISIONS
+ single_player_magic_title:0 "Single Player Magic"
+ single_player_magic_desc:0 ""initium imperii"\n\nFor Mapping & Stress-Free gameplay."
+    #EVENTS
+ spm_events_1_title:0 "Single Player Magic"
+ spm_events_1_desc:0 ""initium imperii"\n\nFor Mapping & Stress-Free gameplay."
+ spm_events_1_tooltip:0 "initium imperii!"
+ spm_events_1_option_1:0 "Mana"
+ spm_events_1_option_2:0 "Treasury"
+ spm_events_1_option_3:0 "Stability, Prestige & Legitimacy"
+ spm_events_1_option_4:0 "Army & Navy"
+ spm_events_1_option_5:0 "Estates"
+ spm_events_1_option_6:0 "Close"
+    #TOOLTIPS
+ spm_events_1_option_5_tooltips:0 "Selected all estates cause I'm lazy.\n"

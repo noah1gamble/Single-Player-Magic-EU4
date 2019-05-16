@@ -1,0 +1,22 @@
+country_decisions = {
+
+	single_player_magic = {
+		major = no		
+		
+		allow = {
+			ai = no
+			ironman = no
+		}		
+		
+		effect = {
+			country_event = { 
+				id = spm_events_1
+				tooltip = spm_events_1_tooltip
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}	
+}
