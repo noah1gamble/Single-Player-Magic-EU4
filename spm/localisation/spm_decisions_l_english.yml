@@ -9,8 +9,9 @@
  spm_events_1_option_1:0 "Mana"
  spm_events_1_option_2:0 "Treasury"
  spm_events_1_option_3:0 "Stability, Prestige & Legitimacy"
- spm_events_1_option_4:0 "Army & Navy"
- spm_events_1_option_5:0 "Estates"
- spm_events_1_option_6:0 "Close"
+ spm_events_1_option_4:0 "Army"
+ spm_events_1_option_5:0 "Navy"
+ spm_events_1_option_6:0 "Estates"
+ spm_events_1_option_7:0 "Close"
     #TOOLTIPS
  spm_events_1_option_5_tooltips:0 "Selected all estates cause I'm lazy.\n"

@@ -22,12 +22,15 @@ country_event = {
 		add_legitimacy = 200
 	}
 	option = {
-		name = "spm_events_1_option_4" # Army & Navy
+		name = "spm_events_1_option_4" # Army
 		add_manpower = 50
-		add_sailors = 50000
 	}
 	option = {
-		name = "spm_events_1_option_5" # Estates
+		name = "spm_events_1_option_5" # Navy
+		add_sailors = 10000
+	}
+	option = {
+		name = "spm_events_1_option_6" # Estates
 		custom_tooltip = spm_events_1_option_5_tooltips
 		add_estate_loyalty = {
 			estate = estate_brahmins
@@ -75,6 +78,6 @@ country_event = {
 		}		
 	}
 	option = {
-		name = "spm_events_1_option_6" # Close
+		name = "spm_events_1_option_7" # Close
 	}	
 }
